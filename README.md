@@ -5,7 +5,8 @@ This project used **MATLAB** to conduct pattern recognition on cryptography.
 You can download MATLAB from [this website](https://www.mathworks.com/products/matlab.html).
 
 
-> Acknowledgement: Yidong Chong (NTU, Singapore) suggested this exercise as an excellent introduction to the power of markov chains and probabilistic modeling. The algorithm used in this exercise is from Chapter 1 of the article “The Markov Chain Monte Carlo Revolution” by Persi Diaconis.
+> Acknowledgement:
+> Yidong Chong (NTU, Singapore) suggested this exercise as an excellent introduction to the power of markov chains and probabilistic modeling. The algorithm used in this exercise is from Chapter 1 of the article “The Markov Chain Monte Carlo Revolution” by Persi Diaconis.
 
 This repository contains:
 
