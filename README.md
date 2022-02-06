@@ -8,7 +8,7 @@ This project used **MATLAB** to conduct pattern recognition on cryptography.
 
 You can download MATLAB from [this website](https://www.mathworks.com/products/matlab.html).
 
-Table of contents:
+## Table of contents:
 
 1. [Problem Definition](https://github.com/shulin16/Pattern_Recognition_Project_Cryptography/blob/main/Problem%20Definition.pdf)
 2. [Solutions](https://github.com/shulin16/Pattern_Recognition_Project_Cryptography/tree/main/MATLAB%20Codes)
