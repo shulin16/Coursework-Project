@@ -5,5 +5,5 @@ Acknowledgement: Yidong Chong (NTU, Singapore) suggested this exercise as an exc
 
 This repository contains:
 
-1. [Problem Definition](Problem Definition.pdf)
+1. [Problem Definition](https://github.com/shulin16/Pattern_Recognition_Project_Cryptography/blob/main/Problem%20Definition.pdf)
 2. My [solution & codes](MATLAB Codes) for this problem.
